@@ -12,7 +12,17 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
+```
+a=int(input())
+if a%9==0:
+    print(a,"is divisible by 9")
+else:
+        print(a,"is NOT divisible by 9")
+```
 
 ## Output
+<img width="703" height="216" alt="446568384-8f5cd46d-ee17-491d-b1f5-97db00c6942e" src="https://github.com/user-attachments/assets/3016ffb3-1075-4c34-949f-a9e3628d189c" />
+
 
 ## Result
+Thus the python program to check whether the given input is divisible by 9 or not.
